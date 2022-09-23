@@ -1,0 +1,2 @@
+python bowling.py
+pause
